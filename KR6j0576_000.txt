@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 諸佛集會陀羅尼經
+#+DATE: 2015-08-30 20:35:29.842041
+#+PROPERTY: JUAN 0
